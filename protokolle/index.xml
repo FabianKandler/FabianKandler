@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Protokolles on FSI-Home</title>
-    <link>/protokolle/</link>
+    <link>fabiankandler.github.io/FabianKandler/protokolle/</link>
     <description>Recent content in Protokolles on FSI-Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="/protokolle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="fabiankandler.github.io/FabianKandler/protokolle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prüfungsprotokolle etc.</title>
-      <link>/protokolle/subheader/</link>
+      <link>fabiankandler.github.io/FabianKandler/protokolle/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/protokolle/subheader/</guid>
+      <guid>fabiankandler.github.io/FabianKandler/protokolle/subheader/</guid>
       <description></description>
     </item>
     <item>
       <title>Modulprüfungsprotokolle</title>
-      <link>/protokolle/protokolle/</link>
+      <link>fabiankandler.github.io/FabianKandler/protokolle/protokolle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/protokolle/protokolle/</guid>
+      <guid>fabiankandler.github.io/FabianKandler/protokolle/protokolle/</guid>
       <description>Eine Liste an Gedächtnisprotokollen von verschiedenen mündlichen (Modul-)Prüfungen sind aktuell unter folgendem Link zu finden:&#xA;&amp;ndash;&amp;gt; Prüfungsprotokolle&amp;lt;&amp;mdash;&#xA;Zur Benutzung der Website ist eine Anmeldung mit dem NDS-Account nötig.&#xA;Eintragen und Bearbeiten eigener Protokolle: Jede Person kann auf der Seite anonym eigene Protokolle unter dem Reiter &amp;ldquo;Protokolle eintragen (add exam minutes)&amp;rdquo; hinzufügen. Dabei bitte alle Informationen eintragen. Zur Formatierung stehen verschiedene Optionen zur Verfügung, diese sind über dem Textfeld aufgelistet.&#xA;Nach dem Eintragen erhält man einen Zugriffscode (access code) mit welchem man die eigenen Protokolle im Nachhinein unter &amp;ldquo;Protokolle editieren (edit exam minutes)&amp;rdquo; beliebig bearbeiten kann.</description>
     </item>
     <item>
       <title>Praktikum und Skripte</title>
-      <link>/protokolle/praktikumskripte/</link>
+      <link>fabiankandler.github.io/FabianKandler/protokolle/praktikumskripte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/protokolle/praktikumskripte/</guid>
+      <guid>fabiankandler.github.io/FabianKandler/protokolle/praktikumskripte/</guid>
       <description>F-Praktikumsprotokolle und Vorlesungsmitschiften sind wie zuvor im Fachschaftszimmer (PHY 5.1.02) am linken PC verfügbar.</description>
     </item>
     <item>
       <title>Altklausuren</title>
-      <link>/protokolle/altklausuren/</link>
+      <link>fabiankandler.github.io/FabianKandler/protokolle/altklausuren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/protokolle/altklausuren/</guid>
+      <guid>fabiankandler.github.io/FabianKandler/protokolle/altklausuren/</guid>
       <description>Altklausuren sind wie zuvor bei uns im Fachschaftszimmer in analoger Form im Spind bei der Tür zu finden.</description>
     </item>
   </channel>
