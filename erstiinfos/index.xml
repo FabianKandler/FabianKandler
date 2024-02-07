@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erstiinfos on FSI-Home</title>
-    <link>fabiankandler.github.io/FabianKandler/erstiinfos/</link>
+    <link>/erstiinfos/</link>
     <description>Recent content in Erstiinfos on FSI-Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="fabiankandler.github.io/FabianKandler/erstiinfos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/erstiinfos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infos für Erstsemester</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/subheader/</link>
+      <link>/erstiinfos/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/subheader/</guid>
+      <guid>/erstiinfos/subheader/</guid>
       <description></description>
     </item>
     <item>
       <title>Erstiheft</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/erstiheft/</link>
+      <link>/erstiinfos/erstiheft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/erstiheft/</guid>
+      <guid>/erstiinfos/erstiheft/</guid>
       <description>Zum leichteren Einstieg ins Studium haben wir für die Studiengänge&#xA;Mathematik B.Sc. Physik B.Sc. Nanoscience Computational Science Lehramt Mathematik/Physik vertieft und nicht vertieft ein Erstiheft mit vielen hilfreichen Informationen erstellt.</description>
     </item>
     <item>
       <title>Buddy-Programm</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/buddyprogramm/</link>
+      <link>/erstiinfos/buddyprogramm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/buddyprogramm/</guid>
+      <guid>/erstiinfos/buddyprogramm/</guid>
       <description>INFOOOOSSSS!!!! https://elearning.uni-regensburg.de/course/view.php?id=45974&#xA;Bei diesem Programm werden du und weitere Erstsemestler von einem Student oder eine Studentin aus einem höheren Semester betreut.&#xA;Das Prograamm ist dazu da, euch Erstsemestlern den Einstieg in das Studium zu erleichtern. Seien es Themen wie Motivation, Lerngruppenbildung, Vor- und Nachbereitung der Vorlesungen,Tipps zur Prüfungsvorbereitung oder einfach um Gleichgesinnte zu finden.&#xA;Es sind ca. drei Treffen im Laufe des Semesters geplant.&#xA;Die Anmeldung erfolgt auf der Grips-Seite (siehe Link) und ist verbindlich.</description>
     </item>
     <item>
       <title>IT-Infos</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/itinfos/</link>
+      <link>/erstiinfos/itinfos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/itinfos/</guid>
+      <guid>/erstiinfos/itinfos/</guid>
       <description>Die wichtigsten Infos zur IT-Infrastruktur für Studierende an der Uni Regensburg findet ihr hier.</description>
     </item>
     <item>
       <title>Beispielstundenpläne</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/stundenplan/</link>
+      <link>/erstiinfos/stundenplan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/stundenplan/</guid>
+      <guid>/erstiinfos/stundenplan/</guid>
       <description>Hier findet ihr Beispielstundenpläne für das erste Semester der Studiengänge Bachelor Physik, Mathematik, Computational Science und Nanoscience. (Stand: 20.09.2021)</description>
     </item>
     <item>
       <title>Das muss man wissen</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/mussmanwissen/</link>
+      <link>/erstiinfos/mussmanwissen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/mussmanwissen/</guid>
+      <guid>/erstiinfos/mussmanwissen/</guid>
       <description>Das Einzige, was ihr vor Semesterbeginn unbedingt machen müsst, ist euch für euer nicht zulassungsbeschränktes Studium irgendwann in der Studentenkanzlei einzuschreiben (Ausnahme: Lehramt Grundschule &amp;ndash;&amp;gt; Bewerben!). Andere Maßnahmen (Infos sammeln, etc.) machen euch zwar das Leben leichter, aber es muss keiner Angst haben dass er wieder rausgeworfen wird, weil er vor Vorlesungsbeginn einen Termin verpasst hat.</description>
     </item>
     <item>
       <title>Sonstiges</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/sonstiges/</link>
+      <link>/erstiinfos/sonstiges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/sonstiges/</guid>
+      <guid>/erstiinfos/sonstiges/</guid>
       <description> Vorlesungsverzeichnis für alle Fakultäten, insbesondere Mathe und Physik Brückenkurs Mathematik für alle StudienanfängerInnen der Mathematik- und Physik-Studiengänge (Bachelor &amp;amp; Lehramt) </description>
     </item>
   </channel>

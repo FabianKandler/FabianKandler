@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FSI-Home</title>
-    <link>fabiankandler.github.io/FabianKandler/</link>
+    <link>/</link>
     <description>Recent content on FSI-Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
-    <atom:link href="fabiankandler.github.io/FabianKandler/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>fabiankandler.github.io/FabianKandler/home/subheader/</link>
+      <link>/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/home/subheader/</guid>
+      <guid>/home/subheader/</guid>
       <description>Das ist die Fachschaft der Studiengänge Mathematik, Physik, Computational Science, Nanoscience und aller die Lehramt in einem der obigen Fächer studieren.</description>
     </item>
     <item>
       <title>Hochschulpolitik</title>
-      <link>fabiankandler.github.io/FabianKandler/hochschulpolitik/subheader/</link>
+      <link>/hochschulpolitik/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/hochschulpolitik/subheader/</guid>
+      <guid>/hochschulpolitik/subheader/</guid>
       <description></description>
     </item>
     <item>
       <title>Impressum</title>
-      <link>fabiankandler.github.io/FabianKandler/impressum/subheader/</link>
+      <link>/impressum/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/impressum/subheader/</guid>
+      <guid>/impressum/subheader/</guid>
       <description></description>
     </item>
     <item>
       <title>Infos für Erstsemester</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/subheader/</link>
+      <link>/erstiinfos/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/subheader/</guid>
+      <guid>/erstiinfos/subheader/</guid>
       <description></description>
     </item>
     <item>
       <title>Prüfungsprotokolle etc.</title>
-      <link>fabiankandler.github.io/FabianKandler/protokolle/subheader/</link>
+      <link>/protokolle/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/protokolle/subheader/</guid>
+      <guid>/protokolle/subheader/</guid>
       <description></description>
     </item>
     <item>
       <title>Erstiheft</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/erstiheft/</link>
+      <link>/erstiinfos/erstiheft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/erstiheft/</guid>
+      <guid>/erstiinfos/erstiheft/</guid>
       <description>Zum leichteren Einstieg ins Studium haben wir für die Studiengänge&#xA;Mathematik B.Sc. Physik B.Sc. Nanoscience Computational Science Lehramt Mathematik/Physik vertieft und nicht vertieft ein Erstiheft mit vielen hilfreichen Informationen erstellt.</description>
     </item>
     <item>
       <title>Modulprüfungsprotokolle</title>
-      <link>fabiankandler.github.io/FabianKandler/protokolle/protokolle/</link>
+      <link>/protokolle/protokolle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/protokolle/protokolle/</guid>
+      <guid>/protokolle/protokolle/</guid>
       <description>Eine Liste an Gedächtnisprotokollen von verschiedenen mündlichen (Modul-)Prüfungen sind aktuell unter folgendem Link zu finden:&#xA;&amp;ndash;&amp;gt; Prüfungsprotokolle&amp;lt;&amp;mdash;&#xA;Zur Benutzung der Website ist eine Anmeldung mit dem NDS-Account nötig.&#xA;Eintragen und Bearbeiten eigener Protokolle: Jede Person kann auf der Seite anonym eigene Protokolle unter dem Reiter &amp;ldquo;Protokolle eintragen (add exam minutes)&amp;rdquo; hinzufügen. Dabei bitte alle Informationen eintragen. Zur Formatierung stehen verschiedene Optionen zur Verfügung, diese sind über dem Textfeld aufgelistet.&#xA;Nach dem Eintragen erhält man einen Zugriffscode (access code) mit welchem man die eigenen Protokolle im Nachhinein unter &amp;ldquo;Protokolle editieren (edit exam minutes)&amp;rdquo; beliebig bearbeiten kann.</description>
     </item>
     <item>
       <title>Buddy-Programm</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/buddyprogramm/</link>
+      <link>/erstiinfos/buddyprogramm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/buddyprogramm/</guid>
+      <guid>/erstiinfos/buddyprogramm/</guid>
       <description>INFOOOOSSSS!!!! https://elearning.uni-regensburg.de/course/view.php?id=45974&#xA;Bei diesem Programm werden du und weitere Erstsemestler von einem Student oder eine Studentin aus einem höheren Semester betreut.&#xA;Das Prograamm ist dazu da, euch Erstsemestlern den Einstieg in das Studium zu erleichtern. Seien es Themen wie Motivation, Lerngruppenbildung, Vor- und Nachbereitung der Vorlesungen,Tipps zur Prüfungsvorbereitung oder einfach um Gleichgesinnte zu finden.&#xA;Es sind ca. drei Treffen im Laufe des Semesters geplant.&#xA;Die Anmeldung erfolgt auf der Grips-Seite (siehe Link) und ist verbindlich.</description>
     </item>
     <item>
       <title>Praktikum und Skripte</title>
-      <link>fabiankandler.github.io/FabianKandler/protokolle/praktikumskripte/</link>
+      <link>/protokolle/praktikumskripte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/protokolle/praktikumskripte/</guid>
+      <guid>/protokolle/praktikumskripte/</guid>
       <description>F-Praktikumsprotokolle und Vorlesungsmitschiften sind wie zuvor im Fachschaftszimmer (PHY 5.1.02) am linken PC verfügbar.</description>
     </item>
     <item>
       <title>Altklausuren</title>
-      <link>fabiankandler.github.io/FabianKandler/protokolle/altklausuren/</link>
+      <link>/protokolle/altklausuren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/protokolle/altklausuren/</guid>
+      <guid>/protokolle/altklausuren/</guid>
       <description>Altklausuren sind wie zuvor bei uns im Fachschaftszimmer in analoger Form im Spind bei der Tür zu finden.</description>
     </item>
     <item>
       <title>IT-Infos</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/itinfos/</link>
+      <link>/erstiinfos/itinfos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/itinfos/</guid>
+      <guid>/erstiinfos/itinfos/</guid>
       <description>Die wichtigsten Infos zur IT-Infrastruktur für Studierende an der Uni Regensburg findet ihr hier.</description>
     </item>
     <item>
       <title>Beispielstundenpläne</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/stundenplan/</link>
+      <link>/erstiinfos/stundenplan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/stundenplan/</guid>
+      <guid>/erstiinfos/stundenplan/</guid>
       <description>Hier findet ihr Beispielstundenpläne für das erste Semester der Studiengänge Bachelor Physik, Mathematik, Computational Science und Nanoscience. (Stand: 20.09.2021)</description>
     </item>
     <item>
       <title>Das muss man wissen</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/mussmanwissen/</link>
+      <link>/erstiinfos/mussmanwissen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/mussmanwissen/</guid>
+      <guid>/erstiinfos/mussmanwissen/</guid>
       <description>Das Einzige, was ihr vor Semesterbeginn unbedingt machen müsst, ist euch für euer nicht zulassungsbeschränktes Studium irgendwann in der Studentenkanzlei einzuschreiben (Ausnahme: Lehramt Grundschule &amp;ndash;&amp;gt; Bewerben!). Andere Maßnahmen (Infos sammeln, etc.) machen euch zwar das Leben leichter, aber es muss keiner Angst haben dass er wieder rausgeworfen wird, weil er vor Vorlesungsbeginn einen Termin verpasst hat.</description>
     </item>
     <item>
       <title>Sonstiges</title>
-      <link>fabiankandler.github.io/FabianKandler/erstiinfos/sonstiges/</link>
+      <link>/erstiinfos/sonstiges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/erstiinfos/sonstiges/</guid>
+      <guid>/erstiinfos/sonstiges/</guid>
       <description> Vorlesungsverzeichnis für alle Fakultäten, insbesondere Mathe und Physik Brückenkurs Mathematik für alle StudienanfängerInnen der Mathematik- und Physik-Studiengänge (Bachelor &amp;amp; Lehramt) </description>
     </item>
     <item>
       <title>Vivamus Lacus Mauris</title>
-      <link>fabiankandler.github.io/FabianKandler/post/vivamus-lacus-mauris/</link>
+      <link>/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/post/vivamus-lacus-mauris/</guid>
+      <guid>/post/vivamus-lacus-mauris/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
     </item>
     <item>
       <title></title>
-      <link>fabiankandler.github.io/FabianKandler/hochschulpolitik/hochschulpolitik/</link>
+      <link>/hochschulpolitik/hochschulpolitik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/hochschulpolitik/hochschulpolitik/</guid>
+      <guid>/hochschulpolitik/hochschulpolitik/</guid>
       <description>Hier fällt die Professorenschaft, Angehörige des Mittelbaus (das sind die Assistenten und Assistentinnen, Promovierende, Privatdozierende und akademischen Räte und Rätinnen) und Studierende Entscheidungen über die Zukunft und Alltagsgeschäfte der Fakultät. Auch bei Berufungen neuer Professoren oder Professorinnen haben Fachschaften Möglichkeit auf das Verfahren einzuwirken.&#xA;Es gibt folgende Gremien in der Mathematik und Physik mit studentischer Beteiligung (Daneben gibt es noch Haushalts- und Bibliotheksausschuß, Prüfungskomissionen etc.. In denen sitzen aber keine Studis):</description>
     </item>
     <item>
       <title></title>
-      <link>fabiankandler.github.io/FabianKandler/home/single/liebestudis/</link>
+      <link>/home/single/liebestudis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/home/single/liebestudis/</guid>
+      <guid>/home/single/liebestudis/</guid>
       <description>Liebe Studis,&#xA;auf unserer Homepage findet ihr Infos zu:&#xA;Vorlesungsterminen und wie diese stattfinden (alle Semester!), sobald verfügbar Prüfungsprotokolle zu mündlichen Prüfungen verschiedener Mathe&amp;amp;Physik Vorlesungen Ersti-Infos (Einführungsvorlesungen, Studienberatung für Erstis, Erklärung der Onlineplattformen der Uni, &amp;hellip;) Studienberatung für alle Studis (wer berät momentan wen in welcher Form) Spiele/Vernetzung und sonstigen Veranstaltungen der Fachschaft Wir bemühen uns, die Homepage so gut es geht aktuell zu halten. Die Social-Media-Kanäle und diversen Gruppen haben keinen Anspruch auf Vollständigkeit, aber ihr könnt uns dort gerne kontaktieren, euch gegenseitig kennenlernen und/oder Fragen stellen.</description>
     </item>
     <item>
       <title></title>
-      <link>fabiankandler.github.io/FabianKandler/impressum/impressum/</link>
+      <link>/impressum/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/impressum/impressum/</guid>
+      <guid>/impressum/impressum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.&#xA;Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</description>
     </item>
     <item>
       <title>Kontakt</title>
-      <link>fabiankandler.github.io/FabianKandler/kontakt/kontakt/</link>
+      <link>/kontakt/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/kontakt/kontakt/</guid>
+      <guid>/kontakt/kontakt/</guid>
       <description>Lorem ipsum</description>
     </item>
     <item>
       <title>Newsletter</title>
-      <link>fabiankandler.github.io/FabianKandler/newsletter/newsletter/</link>
+      <link>/newsletter/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/newsletter/newsletter/</guid>
+      <guid>/newsletter/newsletter/</guid>
       <description>Lorem ipsum</description>
     </item>
     <item>
       <title>Nützliche Links</title>
-      <link>fabiankandler.github.io/FabianKandler/links/links/</link>
+      <link>/links/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/links/links/</guid>
+      <guid>/links/links/</guid>
       <description>Lorem ipsum</description>
     </item>
     <item>
       <title>Protokolle mündlicher Prüfungen</title>
-      <link>fabiankandler.github.io/FabianKandler/home/services/service1-copy-2/</link>
+      <link>/home/services/service1-copy-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/home/services/service1-copy-2/</guid>
+      <guid>/home/services/service1-copy-2/</guid>
       <description>&lt;p&gt;Seit dem 25.01.2024 ist die neue Website für Protokolle von mündlichen Prüfungen online. Jede Person kann direkt darauf eigene Gedächtnisprotokolle zur Verfügung stellen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Protokolle mündlicher Prüfungen</title>
-      <link>fabiankandler.github.io/FabianKandler/home/services/service1-copy/</link>
+      <link>/home/services/service1-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/home/services/service1-copy/</guid>
+      <guid>/home/services/service1-copy/</guid>
       <description>&lt;p&gt;Seit dem 25.01.2024 ist die neue Website für Protokolle von mündlichen Prüfungen online. Jede Person kann direkt darauf eigene Gedächtnisprotokolle zur Verfügung stellen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Protokolle mündlicher Prüfungen</title>
-      <link>fabiankandler.github.io/FabianKandler/home/services/service1/</link>
+      <link>/home/services/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/home/services/service1/</guid>
+      <guid>/home/services/service1/</guid>
       <description>&lt;p&gt;Seit dem 25.01.2024 ist die neue Website für Protokolle von mündlichen Prüfungen online. Jede Person kann direkt darauf eigene Gedächtnisprotokolle zur Verfügung stellen.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Was macht die Fachschaft?</title>
-      <link>fabiankandler.github.io/FabianKandler/home/single/wasmachtdiefs/</link>
+      <link>/home/single/wasmachtdiefs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/home/single/wasmachtdiefs/</guid>
+      <guid>/home/single/wasmachtdiefs/</guid>
       <description>Konkret bemühen wir uns unter anderem darum, dass&#xA;organisatorische und sonstige Angelegenheiten, die von Gremien wie den Fakultätsräten, studentischen Parlament, etc. beschlossen werden, diskutiert, einem größeren Kreis bekannt gemacht werden und auch Meinungsbildung unter den Studierenden stattfindet. &amp;ldquo;Muster&amp;rdquo;-protokolle für die Praktika, komplette Vorlesungsskripten, eine Sammlung der Prüfungsfragen verschiedener Profs und Informationen über das Studium (Prüfungsordnungen) allgemein zugänglich zur Verfügung stehen die Möglichkeit besteht, mit Gleichgesinnten über Interessantes und Neues zu diskutieren (und sei es nur die neue Lebensform, die man links hinten in seiner Schreibtischschublade entdeckt hat) regelmäßig Feste und Ähnliches stattfinden, zur Auflockerung des Studiums und zum besseren Kennenlernen Erstsemester eine möglichst umfangreiche und informative Studienberatung erhalten allen Studierenden bei Studienfragen nützliche Informationen erhalten die Fachschaftszeitung (FAZ) erscheint Studierenden über hochschulpolitische Ereignisse informiert werden, die sie betreffen Probleme zwischen Profs und Studierenden so reibungslos wie möglich gelöst werden Außerdem gibt es bei uns im Fachschaftszimmer:</description>
     </item>
   </channel>

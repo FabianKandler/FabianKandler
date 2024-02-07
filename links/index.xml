@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Links on FSI-Home</title>
-    <link>fabiankandler.github.io/FabianKandler/links/</link>
+    <link>/links/</link>
     <description>Recent content in Links on FSI-Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="fabiankandler.github.io/FabianKandler/links/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/links/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nützliche Links</title>
-      <link>fabiankandler.github.io/FabianKandler/links/links/</link>
+      <link>/links/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/links/links/</guid>
+      <guid>/links/links/</guid>
       <description>Lorem ipsum</description>
     </item>
   </channel>

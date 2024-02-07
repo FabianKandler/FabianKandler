@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hochschulpolitiks on FSI-Home</title>
-    <link>fabiankandler.github.io/FabianKandler/hochschulpolitik/</link>
+    <link>/hochschulpolitik/</link>
     <description>Recent content in Hochschulpolitiks on FSI-Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <atom:link href="fabiankandler.github.io/FabianKandler/hochschulpolitik/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/hochschulpolitik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hochschulpolitik</title>
-      <link>fabiankandler.github.io/FabianKandler/hochschulpolitik/subheader/</link>
+      <link>/hochschulpolitik/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/hochschulpolitik/subheader/</guid>
+      <guid>/hochschulpolitik/subheader/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>fabiankandler.github.io/FabianKandler/hochschulpolitik/hochschulpolitik/</link>
+      <link>/hochschulpolitik/hochschulpolitik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>fabiankandler.github.io/FabianKandler/hochschulpolitik/hochschulpolitik/</guid>
+      <guid>/hochschulpolitik/hochschulpolitik/</guid>
       <description>Hier fällt die Professorenschaft, Angehörige des Mittelbaus (das sind die Assistenten und Assistentinnen, Promovierende, Privatdozierende und akademischen Räte und Rätinnen) und Studierende Entscheidungen über die Zukunft und Alltagsgeschäfte der Fakultät. Auch bei Berufungen neuer Professoren oder Professorinnen haben Fachschaften Möglichkeit auf das Verfahren einzuwirken.&#xA;Es gibt folgende Gremien in der Mathematik und Physik mit studentischer Beteiligung (Daneben gibt es noch Haushalts- und Bibliotheksausschuß, Prüfungskomissionen etc.. In denen sitzen aber keine Studis):</description>
     </item>
   </channel>
